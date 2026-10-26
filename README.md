@@ -3,9 +3,9 @@
 # HELEMBO
 ### *Anak Muda Memiliki Peran Penting*
 
-> "Dari Papua untuk Indonesia"
+> "Dari Papua untuk Papua"
 
-Berkarya, berproses, dan berkontribusi untuk masa depan yang lebih baik melalui ide kreatif, kolaborasi, dan aksi nyata.
+butuh ide-ide new dari teman-teman untuk Berkarya, berproses, dan berkontribusi melalui ide kreatif, kolaborasi, dan aksi nyata.
 
 </div>
 
@@ -13,7 +13,7 @@ Berkarya, berproses, dan berkontribusi untuk masa depan yang lebih baik melalui 
 
 ## 👨‍💻 Tentang Saya
 
-Saya **HELEMBO**, seorang anak muda yang aktif berkarya, peduli terhadap lingkungan sosial, pendidikan, kesehatan, dan pengembangan diri. Melalui kreativitas, kerja sama, dan semangat pantang menyerah, saya percaya bahwa anak muda memiliki peran penting dalam menciptakan perubahan positif di masyarakat.
+Saya **HELEMBO**, anak muda yang aktif berkarya, peduli terhadap lingkungan sosial, pendidikan, kesehatan, dan pengembangan diri. Melalui kreativitas, kerja sama, dan semangat pantang menyerah, saya percaya bahwa anak muda memiliki peran penting dalam menciptakan perubahan positif di masyarakat.
 
 * **Nama:** HELEMBO
 * **Asal:** Papua
@@ -25,19 +25,17 @@ Saya **HELEMBO**, seorang anak muda yang aktif berkarya, peduli terhadap lingkun
 
 ## 📊 Kegiatan
 
-* **Pengabdian Masyarakat:** Sosialisasi PHBS di Kampung
-* **Diskusi & Seminar:** Kesehatan Remaja
+* **Pengabdian Masyarakat:** Sosialisasi kesehatan
+* **Diskusi & Seminar:**
 * **Aksi Lingkungan:** Tanam Pohon
-* **Kegiatan Sosial:** Cek Kesehatan Gratis
-
 ---
 
-## 💡 Ide Kreatif & Desain
+## 💡 butuh Ide Kreatif & Desain
 
-* **Edukasi kesehatan digital**
+* **pengabdian Edukasi kesehatan digital**
 * **Pemanfaatan pangan lokal**
 * **Inovasi lingkungan**
-* **Pengembangan pemuda Papua**
+* **Pengembangan anak muda Papua**
 
 ---
 
@@ -51,7 +49,7 @@ Saya **HELEMBO**, seorang anak muda yang aktif berkarya, peduli terhadap lingkun
 
 ## 🛠 Keahlian
 
-`Desain Grafis` `Microsoft Office` `Editing Foto & Video` `Komunikasi` `Kerja Tim` `Kreativitas`
+`Komunikasi` `Kerja Tim` `Kreativitas`
 
 ---
 
